@@ -1,0 +1,1 @@
+- Tri nhân giả trí, tự tri giả minh. Thắng nhân giả hữu lực, tự thắng giả cường. Tri túc giả phú.
