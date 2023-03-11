@@ -1,0 +1,2 @@
+# 1. Tips 1
+If you take only one thing from this book and from the concept of microservices in general, it should be this: ensure that you embrace the concept of **independent deployability ** of your microsevices. Get into the habit of deploying and releasing changes to a single microservice in to production without having to deploy anything else. From this, many good things will follow
