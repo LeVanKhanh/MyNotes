@@ -1,0 +1,1 @@
+Strategic Management A Competitive Advantage Approach, Concepts and Cases by Fred R David Forest R David
