@@ -34,9 +34,9 @@ Edward Deming once said, “In God we trust. All others bring data.”
 
 ## Key Terms in Strategic Management
 
-- Competitive advantage: This term can be defined as any activity a firm does especially well compared to activities done by rival firms, or any resource a firm possesses that rival firms desire
-- Strategists: are the individuals most responsible for the success or failure of an organization
-- Vision and mission statements: Vision statement that answers the question “What do we want to become?” Mission statements are “enduring statements of purpose that distinguish one business from other similar firms.
+- **Competitive advantage**: This term can be defined as any activity a firm does especially well compared to activities done by rival firms, or any resource a firm possesses that rival firms desire
+- **Strategists**: are the individuals most responsible for the success or failure of an organization
+- **Vision and mission statements**: Vision statement that answers the question “What do we want to become?” Mission statements are “enduring statements of purpose that distinguish one business from other similar firms.
 - External opportunities and threats: External opportunities and external threats refer to economic, social, cultural, demographic, environmental, political, legal, governmental, technological, and competitive trends and events that could significantly benefit or harm an organization in the future
 - Internal strengths and weaknesses: Internal strengths and internal weaknesses are an organization’s controllable activities that are performed especially well or poorly. They arise in the management, marketing, finance/ accounting, production/operations, research and development, and management information systems (MIS) activities of a business.
 - Long-term objectives: Objectives can be defined as specific results that an organization seeks to achieve in pursuing its basic mission. Long-term means more than one year.
