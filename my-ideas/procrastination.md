@@ -17,7 +17,10 @@ How to avoid procrastination?
 
 - Relax: Take rest to have energy to continue
 
-- Push yourself: Practicing like crazy, or keeping it the same
-
 - Keeping your time box: let build your habit
-- 
+
+- Focus: in a specific period do one thing until it complete.
+
+- Push yourself: Practicing like crazy, or keeping it the same. From good to great.
+
+- The power of now - you are living in the moment of now -  not in the past neither in the future. All are happening now
