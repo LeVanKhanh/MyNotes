@@ -2,6 +2,8 @@
 
 ## CHAPTER 1: If you must find fault, this is the way to begin
 
+### Priciple 1: Begin with praise and honest appreciation.
+
 ## CHAPTER 2: How to criticize - and not be hated for it
 
 ## CHAPTER 3: Take about your mistakes first

@@ -2,3 +2,6 @@
 
 - "Every man I meet is my superior in some way. In that, I learn of him." (Emerson)
 
+- "If do not do stupid things while you are young, you will have nothing to laugh about when you are old."
+
+- 
