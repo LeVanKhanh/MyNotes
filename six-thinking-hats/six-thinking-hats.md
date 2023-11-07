@@ -1,0 +1,1 @@
+https://www.tsw.co.uk/blog/leadership-and-management/six-thinking-hats/
