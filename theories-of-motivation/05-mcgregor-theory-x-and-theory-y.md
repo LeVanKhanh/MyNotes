@@ -1,0 +1,1 @@
+![McGregor's theory X and Theory Y](./images/Comparison-between-Theory-X-and-Theory-Y-copy.webp)
