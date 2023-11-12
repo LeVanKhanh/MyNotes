@@ -73,22 +73,29 @@ How willing are you to be your true self in your leadership as well as to be ope
 # Two dimensions teamwork
 ![two-dimensions-teamwork](./images/two-dimensions-teamwork.png)
 
-- **Assess Your Co-Workers** Which ones of your co-workers belong to those who tend to focus more on Things or Experiences? How can you behave towards both those categories of people to treat them with more respect?
-
-- **Assess Your Organization** What about your organization? Is there more of a focus on the Things dimension when working on different tasks? More focus on the Experiences dimension? Or a good balance? 
-
-- **Assess Your Decision-Making** When you make decisions, which of the two dimensions do you tend to focus more on? Is there something in your leadership that you would like to change to make decisions that work better for everyone involved?
-
-# Feed back 
-- A Different Expression: Think about a situation that did not go as you would have expected. Looking back, how could you have expressed yourself to the other person with the starting point being yourself and your experience of the situation? Write down three different phrases that you could have used as if you were saying them directly to the person.
-
-- The Communication at Your Workplace: Is there an open field of communication at your workplace, where the co-workers feel like they have the possibility to give feedback to their colleagues or to you as a manager? If not, how can you create it? Write down five ideas for how you could improve the climate for giving feedback at your workplace.
-
-- How You React: Reflect on how you usually react when you as a leader receive feedback from co-workers. Which step of the Feedback Staircase are you habitually on? Is there another step that would be more productive to use? If yes, what do you need to do to make that change?
-
+# The difference between management and leaderships
+## Management
+- Posision: Appointment from above in organisation
+- Organizing things: in the Things dimension, a role
+- Formal
+## Leadership
+- Relationship: vote of confidence from other people
+- Relating, influencing: in the relationships dimension
+- Informal
 # The four level of communication
 
 - **Nothing**: The first level is when we talk about Nothing. This is the first and shallowest level of communication. A common topic on this level is talking about the weather. It means we are talking about nothing, something
 - **Something**: The second level of communication is where we talk about Something. And something in this case can be our favorite sports team. It can be about the organizational chart. It can be about the meeting yesterday or about the new computer system. We talk about something on this second level of communication which is slightly deeper than the first level. It says a bit more about the persons engaged in the communication, but it is still not a very deep level of communication
 - **Somebody**: The third level of communication is when we talk about Somebody. Now we’re getting down to a bit of a deeper level, a more direct level of communication. Somebody means we are talking about somebody who is not in the communication, not in the conversation. We could for example be talking about the boss, if he or she is not present. We could be talking about another coworker or about our kids.
 - **You and I**:The fourth and deepest, most direct level of communication is called You and I. This is where we talk about you and I. Feedback for example, ends up on this level. When I give you feedback or you give me feedback. It’s a very direct, effective communication when we want to develop a relationship and deepen an interaction with another person.
+
+# Having a clear outcome
+- **Something easily gets missed**: Sometimes people go into a conversation and they have no idea what they want out of it
+- **To be an effective communicator**: Make your desired outcome crystal clear for yourself and watch your communication skills improve along with it.
+
+# The arrow of credibility
+- **Step 1: Sensation** Meaning something you experience with your five senses. You smell, touch, see and so forth. You have some sort of sensation somewhere in your body. 
+- **Step 2: Awareness** In the second step, you can choose to become aware of that “oh, I have a pressure in my stomach” or you might not.
+- **Step 3: Insight** Maybe I’m having too much to do at work.” That could be one example of an insight in step three.
+- **Step 4: Action** 
+- **Step 5: Effect** To really be the one who increases the chances of other people trusting you or perceiving you as a credible person, you also need to take responsibility for the effects that your actions are having
