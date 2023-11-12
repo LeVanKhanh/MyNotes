@@ -1,0 +1,3 @@
+- What you get acknowledgement for? Being a specialist or a manager?
+- Wanting to belong: Face to the fact, talk about expectation
+- I am the only one who is uncertain: be honest to yourself, ask for help
