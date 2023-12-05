@@ -99,3 +99,52 @@ How willing are you to be your true self in your leadership as well as to be ope
 - **Step 3: Insight** Maybe I’m having too much to do at work.” That could be one example of an insight in step three.
 - **Step 4: Action** 
 - **Step 5: Effect** To really be the one who increases the chances of other people trusting you or perceiving you as a credible person, you also need to take responsibility for the effects that your actions are having
+
+# Confict Management
+## Incompatible Strategies
+## The five confict styles
+- Fight: In a conflict situation if I prioritize my needs first, or my goals, then I would most likely choose the first conflict style which is called to fight.
+- Adapt: On the other hand if I choose a style that focuses completely on the needs of the other person or persons then I choose the style called to adapt. Meaning I forgo my own needs and instead focus on the other person’s needs.
+- Avoid: I could also choose to not focus on neither my needs or the needs of the other person. In that case I would choose to simply avoid the conflict. The third style is therefore called to avoid. 
+- Compromise: The fourth style is if I make sure I get it a little bit the way I want it, while also making sure other people get a little bit of what they want and need. Then we have a style called to compromise. Compromise often feels like I get a little bit of what I want, but not completely what I really wanted
+- Cooperate: The fifth style is when I make sure to fulfill both my needs and the needs of the other person or persons involved. This is called to cooperate. I achieve my goals, the things I want and need, while I also prioritize the relationship and meeting the other person’s needs. 
+
+# Motivation
+## Communication the big picture
+"I'm building a cathedral"
+## Clarify what is lacking to help others improve
+Skill and Will
+
+# Leadership dilemmas
+- Mission: Change or Maintain
+- Goal setting: Open for new options or stay on the current course
+- Relations: be close or keep distance
+- Inderdependence: as for help or teach others
+- Decisions: Decide yourself or delegate
+- Pace of change: fast or slow
+- Confidence: fire team members or develop team members
+- Loyalty: Support your team or serve upwards
+
+# Four parts of management
+- Managing Relationships
+- Relating to a Framework 
+- Delivering Results
+- Leading the operataions in a Direction
+
+# Responsibilities as a Manager
+https://www.risely.me/responsibilities-of-a-manager-7-secrets-to-success/
+
+Maintains staff by recruiting, selecting, orienting, and training employees. Ensures a safe, secure, and legal work environment. Develops personal growth opportunities. Accomplishes staff results by communicating job expectations; planning, monitoring, and appraising job results.
+
+Planing, Organizing, Staffing, leading, Controlling
+- Hiring the right people for the team according to skill and behavior gaps
+- Leading and motivating the team
+- Setting and communicating the team’s objectives and goals.
+- Setting individual objectives/goals and aligning them with the team’s goals
+- Planning and organizing workflows
+- Monitoring progress and ensuring goals are met
+- Developing and coaching team members
+- Making sure the team’s employee experience remains high and employee turnover remains low
+
+# Authorities as a Manager
+ Your authority isn’t just about giving orders; it’s your power to steer the ship, make decisions, and lead your team to victory. Think of it as the captain’s hat on your head, guiding everyone towards a common goal.
