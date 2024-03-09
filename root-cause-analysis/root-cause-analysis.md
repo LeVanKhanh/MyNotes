@@ -1,6 +1,11 @@
 Why
 Pareto 80/20
 values
+Fishbone
+Drill Down
+Fault Tree Analysis
+FMEA (Failure, Mode, Effects, Analysis)
+Issue/Error log
 8D (Disciplines): is a problem-solving methodology formally developed in the 1980's at the Ford Motor Company
 D0: Preparation and Emergency Response
 D1: Assemble the team
