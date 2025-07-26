@@ -18,10 +18,10 @@ Initially these projects will likely require plenty of your
 time but in the long term people will become more independent. Meaning you will be able to delegate these tasks
 more effectively and free up more of your time. 
 
-- Low effort - High skill:
+- Low effort - Low skill:
 These are tasks you want to make sure to definitely delegate. You will have a bigger pool of people to choose from as they require low skill. Getting stuck with these tasks on your own to-do list as a huge efficiency killer and waste of your time. 
 
-- Low effort - Low skill: 
+- Hight effort - Low skill: 
 Delegate these tasks as often as possible to somebody with a lower competence level. They can be good stepping stones for you to practice your delegation skills. And for the person you are delegating to, they can be stepping stones to working more independently and effectively.
 
 # Four questions
